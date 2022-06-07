@@ -1,0 +1,4 @@
+No site do GitHub sempre que eu quiser colocar um link vinculado a algum texto(hiperlink), 
+o texto virá entre colchetes [] e sem colocar espações logo em seguida o link da página virá dentro de parêntesis
+Ex:
+[Site do GitHub](github.com)
